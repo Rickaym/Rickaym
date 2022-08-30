@@ -1,9 +1,5 @@
 ![name-with-nice-font](name.png)
 
-## Ask and you shall get, Seek and you shall find
-
-Simplicity is the final achievement. After one has brute-forced a vast quantity of lines and more lines of code, it is simplicity that emerges as the crowning reward of art.
-
 ## `Experience`
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -23,3 +19,5 @@ Simplicity is the final achievement. After one has brute-forced a vast quantity 
 ## `My Statistics`
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickaym&theme=merko)
 ![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickaym&theme=merko)
+
+*Simplicity is the final achievement. After one has brute-forced a vast quantity of lines and more lines of code, it is simplicity that emerges as the crowning reward of art.*
