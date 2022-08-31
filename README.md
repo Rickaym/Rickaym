@@ -18,6 +18,7 @@
 
 ## `My Statistics`
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickaym&theme=merko)
-![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickaym&theme=merko)
+<br>
+![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickaym&theme=merko&show_icons=true)
 
 *Simplicity is the final achievement. After one has brute-forced a vast quantity of lines and more lines of code, it is simplicity that emerges as the crowning reward of art.*
