@@ -16,6 +16,7 @@
 ![Flutter](https://img.shields.io/badge/Flutter-A377FF?style=for-the-badge&logo=flutter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode%20API-0075B7?style=for-the-badge&logo=visualstudio&logoColor=white)
 
+*We shall not cease from exploration and at the end of all our exploring, we shall arrive back to where it all started and know the place for the very first time.*
 ## `My Statistics`
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickaym&theme=merko)
 <br>
