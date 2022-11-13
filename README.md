@@ -20,7 +20,11 @@
 
 *We shall not cease from exploration and at the end of all our exploring, we shall arrive back to where it all started and know the place for the very first time.*
 ## `My Statistics`
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rickaym&theme=merko)
+<div>
+ <img alt="Ricky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rickaym&theme=merko&show_icons=true" width="48%" align="top" />
+ <img alt="Ricky's Most used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rickaym&theme=merko&layout=compact&langs_count=10" width="48%" align="right" />
+</div>
+ 
 <br>
 <!--![Ricky's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rickaym&theme=merko&show_icons=true)-->
 
