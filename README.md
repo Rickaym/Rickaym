@@ -1,4 +1,6 @@
-<img alt="name with nice font" src="name.png" style="margin-left: auto; margin-right: auto;" />
+<p align="center">
+ <img alt="name with nice font" src="name.png"/>
+</p>
 
 ## `Experience`
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
