@@ -1,5 +1,5 @@
 <p align="center">
- <img alt="name with nice font" src="name.png"/>
+ <img alt="name with nice font" src="name-img.png" height="300px"/>
 </p>
 
 ## `Experience`
