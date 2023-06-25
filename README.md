@@ -19,7 +19,6 @@
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C01F34?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 
-*We shall not cease from exploration and at the end of all our exploring, we shall arrive back to where it all started and know the place for the very first time.*
 ## `My Statistics`
 <div>
  <img alt="Ricky's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Rickaym&theme=merko&show_icons=true" width="48%" align="top" />
