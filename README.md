@@ -2,7 +2,7 @@
  <img alt="name with nice font" src="name-img.png" height="300px"/>
 </p>
 
-· [pyaesonemyo.dev](https://pyaesonemyo.com/)
+· [pyaesonemyo.com](https://pyaesonemyo.com/)
 
 ## `Statistics`
 <div>
